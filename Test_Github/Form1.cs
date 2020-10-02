@@ -16,5 +16,10 @@ namespace Test_Github
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLabel1.Text = textBox1.Text + " " + textBox2.Text;
+        }
     }
 }

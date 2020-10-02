@@ -6,3 +6,4 @@ C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.Properti
 C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.csproj.GenerateResource.Cache
 C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.exe
 C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.pdb
+C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.Form1.resources
