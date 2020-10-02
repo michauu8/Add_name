@@ -1,0 +1,8 @@
+C:\Users\Michał\Projekty\Test_Github\Test_Github\bin\Debug\Test_Github.exe.config
+C:\Users\Michał\Projekty\Test_Github\Test_Github\bin\Debug\Test_Github.exe
+C:\Users\Michał\Projekty\Test_Github\Test_Github\bin\Debug\Test_Github.pdb
+C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.csprojResolveAssemblyReference.cache
+C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.Properties.Resources.resources
+C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.csproj.GenerateResource.Cache
+C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.exe
+C:\Users\Michał\Projekty\Test_Github\Test_Github\obj\Debug\Test_Github.pdb
